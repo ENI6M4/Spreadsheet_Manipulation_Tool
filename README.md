@@ -2,7 +2,7 @@
 
 Well lads
 
-said I'd create this cos it's handy and everyone else is doing it so
+Said I'd create this cos it's handy and everyone else is doing it so
 
 
 I think we should split this project into 6 classes(dermot did 1 for us originally had 7 in) and combine at end
