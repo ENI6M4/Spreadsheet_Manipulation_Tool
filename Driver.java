@@ -1,8 +1,7 @@
 
 public class Driver
 {    
-    public static void main (Stri
-ng[] args)
+    public static void main (String[] args)
  {
        SpreadSheetSystem anInstance = new SpreadSheetSystem();
        anInstance.Display();
