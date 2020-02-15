@@ -1,7 +1,6 @@
 
 
-
- public class SpreadSheetSystem {
+public class SpreadSheetSystem {
   
     public static String[] myArray = new String[256];
     public static int nextAvailablePos;
