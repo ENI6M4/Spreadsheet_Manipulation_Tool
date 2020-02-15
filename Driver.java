@@ -1,12 +1,8 @@
 
 public class Driver
-{
-    // Authors: 
-// Patrick Barsoum     19240058
-// Micheal Hogan       15172856
-// Kevin McCarthy      19237219
-// Patrick McCarthy    19237405
-    public static void main (String[] args)
+{    
+    public static void main (Stri
+ng[] args)
  {
        SpreadSheetSystem anInstance = new SpreadSheetSystem();
        anInstance.Display();
