@@ -1,12 +1,8 @@
 
 
 
- public class SpreadSheetSystem{
-// Authors: 
-// Patrick Barsoum     19240058
-// Micheal Hogan       15172856
-// Kevin McCarthy      19237219
-// Patrick McCarthy    19237405  
+ public class SpreadSheetSystem {
+  
     public static String[] myArray = new String[256];
     public static int nextAvailablePos;
     public static int N;
